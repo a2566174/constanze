@@ -1,0 +1,285 @@
+
+(HEADER)
+(圖21)鄒蓉 ConstanZe
+
+新媒體工作者 New Media Specialist
+
+(導覽列)
+關於我 About Me
+社群 Social Media
+個人時間軸 My Timeline
+專業領域 Specializations
+線上課程 Online Courses
+留言 Message
+
+(區塊1)
+關於我 About Me
+
+擁有多年的教學經驗，於英語文、AI生成指令及直播應用略有所長
+
+Many years of general teaching experience plus a side venture in English, AI-prompt Engineering, and Livestreaming.
+ 
+
+平常人在臺東，我的主要教學領域是英語和直播課程，並運用新媒體於課程中進行教學。
+
+授課學生群體包括成年人、夏令營的孩子，以及大學生。
+
+ 
+
+I specialize in English and Livestreaming courses teaching throughout the county of Taitung, and applying New Media. 
+
+ The primary student base includes adults, children over 13, and college students.
+
+大貓工作室 B.K. Studio
+ 
+我目前常駐的實體工作室  The studio where I'm at most of the time
+(google地圖)
+近期講座 / 課程 Recent Lectures / Courses
+(圖1~圖10)
+社群 Social Media
+
+(Section image)
+YouTube-康斯坦絲的課用頻道
+(https://www.youtube.com/channel/UC43A-nYmwY7s0Hgcd8Syd8A)
+@Constanze_Class
+(https://www.twitch.tv/constanze_class)
+(Section image)
+Twitch-康斯坦絲的課用頻道
+
+@Constanze_Class
+(https://www.facebook.com/ConstanzeClass/)
+(Section image)
+Facebook-康斯坦絲的課用粉專
+(https://www.instagram.com/constanze_class/)
+(@ConstanzeClass)
+
+(Section image)
+Instagram-康斯坦絲的課用社群
+
+@constanze_class
+
+(社群 Social Media區塊如圖11)
+(區塊2)
+個人時間軸 My Timeline
+
+臺東大學資訊管理學系 Department of Information Science and Management Systems
+臺東大學資訊管理學系課程講師
+
+2022 - now
+課程講師 Lecturer 
+
+臺東大學資訊管理學系(圖12)
+
+產業管理資服整合數位行銷應用學程 直播平台應用課程
+
+Department of Information Science and Management Systems
+
+Integrated Digital Marketing Applications Program in Industry Management Information Services
+
+Live Streaming Tutorial for COLLEGE students
+
+臺東縣勞工大學 Labour University of Taitung County(圖13)
+臺東縣勞工大學課程講師
+
+2023 - now
+課程講師 Lecturer 
+
+臺東縣勞工大學 AI工具x直播自媒體
+
+Labour University of Taitung County
+
+AI Tools for Live Streaming and Personal Branding
+
+臺東大學產學營運暨推廣教育中心 NTTU Industrial Collaboration and Continuing Education Affairs(圖14)
+臺東大學產學營運暨推廣教育中心課程講師
+2024.8  
+
+課程講師 Lecturer 
+
+臺東大學產學營運暨推廣教育中心 113年冬令營-數媒小主播課程
+
+NTTU Industrial Collaboration and Continuing Education Affairs
+
+2024 Winter Camp - Live Streaming Tutorial for KIDS
+
+
+臺東縣稅務局計畫活動評審(圖15)
+
+2025.8.18-2025.8.19
+
+計畫活動評審 Event Judge (AI Education Program)
+
+臺東縣稅務局 AI租稅趣一天：租稅夏令營
+
+Taitung County Taxation Bureau
+
+2025 AI Tax One-Day Camp: Taxation Summer Camp
+
+都蘭之蘭調創生USR計畫 Regional Innovation Project of A’tolan Style(圖16)
+都蘭之蘭調創生USR計畫講座講師
+
+2022.10
+
+講座講師 Keynote Speaker
+
+都蘭之蘭調創生USR計畫 社區連結與創新創業增能講座 
+
+Regional Innovation Project of A’tolan Style
+
+Community Cohesion, Innovation and Entrepreneurship Conventions
+
+ 
+
+
+GEPT 全民英檢課程課師(圖17)
+
+2021 - now
+
+GEPT 全民英檢課師 GEPT Courses Teacher
+
+任教於吉尼爾美語文理補習班
+
+Teach at Geniea English Teaching Center
+
+
+資訊服務員(圖18)
+
+2019 - now
+資訊服務員 Technical Support
+
+任職於蔚宏資訊有限公司
+
+Work at Wei-Hong Info. Tech. Co., Ltd
+
+
+兼職展覽策展員(圖19)
+
+2018.1 - 2018.4
+
+兼職展覽策展員 Assistant Curator
+
+任職於學學國際文化創意事業股份有限公司
+
+Work at Xue Xue Institute Co., Ltd.
+
+作品集 Portfolio
+
+ 
+
+點擊下方連結前往作品集網頁
+
+Click the link below to the portfolio page
+
+(button)(如圖20)
+
+(區塊3)
+專業領域 specailizations
+
+(4個卡片)
+(卡片1)
+日常英語文應用
+
+English for Everyday Use
+
+ 
+
+拓展英語技能，聚焦聽、說、讀、寫各方面的全面課程。透過沉浸式活動、互動式課程和定制練習，深化學員的語言能力。通過文本選讀與解析，加強英文語感，並更深入理解單字及片語背後的思考邏輯及文化脈絡。歡迎加入，開啟語言掌握之旅！
+
+Expand English proficiency with a comprehensive course focusing on listening, speaking, reading, and writing. Through immersive activities, interactive lessons, and customized exercises, participants deepen their language skills. Enhance English language intuition through text analysis, gaining a deeper
+understanding of the logic and cultural context behind vocabulary and phrases. Join us and embark on a journey to master language skills!
+
+
+(卡片2)
+AI 工具入門
+
+AI Tools Tutorial
+
+ 
+
+本課程旨在教學如何編寫用於生成式AI 模型的生成指令(prompts)，課程中會帶領學員於Stable Diffusion、Midjourney等軟體平台中進行生成影像的應用練習， 並以ChatGPT 4.5、Gemini 3.1、Grok 4.20等作為自然語言生成與核心指令編輯的教學工具。
+
+ 
+
+This course aims to teach participants how to design and write prompts for generative AI models. Throughout the course, learners will engage in hands-on practice in AI image generation using platforms such as Stable Diffusion and Midjourney.
+
+In addition, tools including ChatGPT 4.5, Gemini 3.1, and Grok 4.20 will be used as core instructional resources for natural language generation and prompt engineering.
+
+ 
+
+使用平台及軟體 Used platforms and software 
+
+Stable Diffusion, Midjourney, 
+
+ChatGPT 4.5, Gemini 3.1, and Grok 4.20
+
+(卡片3)
+多益與中級/中高級全民英檢
+
+TOEIC & GEPT (Intermediate to Upper-Intermediate) Preparation
+
+ 
+
+搶先一步，掌握多益與GEPT全民英檢的課程！本課程深入解析考試結構，提供針對性練習，強化聽、說、讀、寫各項技能。透過實際模擬考試及題海戰術，助您信心滿滿迎戰檢定。不僅滿足考試需求，更培養實用英語應用能力。立即參與，奠定英語檢定成功基石！
+
+ 
+
+Stay ahead and master TOEIC & the GEPT General English Proficiency Test course! This program provides in-depth analysis of the exam structure, targeted exercises, and strengthens listening, speaking, reading, and writing skills. Through practical simulated exams and strategic question-solving tactics, boost your confidence to face the test. Not only meeting exam requirements but also cultivating practical English proficiency. Join now to lay the foundation for success in the English proficiency test!
+(卡片4)
+直播與自媒體應用
+
+Live Streaming & Self-Media Courses
+
+ 
+
+這門課程致力於教導學員運用攝像鏡頭和串流軟體，實現無縫的實時直播體驗。其中將涵蓋鏡頭設置、腳本設計、串流軟體及插件應用(OBS Studio、StreamElements)、直播平台(Facebook, Youtube, Twitch)的使用技巧及虛擬形像軟體應用(Animaze、VTube Studio)。透過理論講解和實際操作演練，學員將掌握個人開台及進行直播活動的實用技能。
+
+ 
+
+This course is designed to equip participants with the skills to utilize cameras and streaming software to deliver seamless real-time live streaming experiences. The course covers camera setup, script design, and the use of streaming software and plugins, including OBS Studio and StreamElements.
+
+It also introduces live streaming platforms such as Facebook, YouTube, and Twitch, as well as virtual avatar applications like Animaze and VTube Studio.
+
+Through a combination of theoretical instruction and hands-on practice, participants will develop practical skills for launching personal live streams and managing live streaming activities effectively.
+
+ 
+
+使用平台和軟體 Used platforms and software 
+
+OBS Studio, StreamElements, Facebook, Youtube, Twitch,
+
+Animaze and VTube Studio
+---分隔線---
+線上課程 Online Courses
+
+於 Discord 進行課程 All the classes will be taken on Discord
+AI 圖像生成軟體操作教學 Tutorial on AI-Generated Art
+
+AI 圖像生成軟體操作教學 Tutorial on AI-Generated Art
+(僅線上課程 Online Class Only)
+(於 Discord 進行 On Discord)
+
+初階 Elementary
+‧ 軟體介紹 Software Introduction
+‧ 基本軟體操作 Basic software programs
+
+進階 Advanced
+‧ 指令編寫技巧 Command prompting skills
+‧ 特殊指令用法 Usage of special prompts
+‧ 取材及參考依據 Materials and references
+‧ 不同平台及素材數據庫簡析
+    Brief analysis of different AI-Generated platforms and their databases
+‧ 相關規範 Relevant regulations
+
+Event time zone:
+Asia/Taipei GMT+08:00
+Book Now  
+留言 MESSAGE
+ 
+「快來聯繫Constanze吧！」 
+＂Don't be afraid to reach out. You + us = awesome.＂
+名字 Name
+電子信箱 E-mail
+請在此輸入您的訊息 Please leave your message here
+送出訊息 Submit
+
+
