@@ -250,11 +250,12 @@ textarea {
   aspect-ratio: 1;
   border-radius: 50%;
   opacity: .48;
+  display: grid;
+  place-items: center;
+  border: 1px solid rgba(201, 237, 143, .24);
   background:
-    repeating-conic-gradient(from 12deg, rgba(201, 237, 143, .72) 0 2deg, transparent 2deg 12deg),
-    radial-gradient(circle, transparent 42%, rgba(118, 227, 196, .38) 43% 44%, transparent 45% 59%, rgba(201, 237, 143, .3) 60% 61%, transparent 62%);
-  -webkit-mask: radial-gradient(circle, transparent 0 35%, #000 36% 64%, transparent 65%);
-  mask: radial-gradient(circle, transparent 0 35%, #000 36% 64%, transparent 65%);
+    radial-gradient(circle, transparent 0 36%, rgba(118, 227, 196, .12) 37% 38%, transparent 39% 64%, rgba(201, 237, 143, .18) 65% 66%, transparent 67%),
+    repeating-conic-gradient(from 8deg, rgba(201, 237, 143, .16) 0 1deg, transparent 1deg 18deg);
   animation: sigilSpin 32s linear infinite;
 }
 
@@ -272,6 +273,35 @@ textarea {
   border-color: rgba(118, 227, 196, .3);
   transform: rotate(-18deg);
 }
+
+.sigil-ring span {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  color: rgba(232, 215, 122, .78);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(16px, 2vw, 28px);
+  line-height: 1;
+  text-shadow: 0 0 18px rgba(118, 227, 196, .48);
+  transform: rotate(calc(var(--i) * 22.5deg)) translateY(calc(clamp(240px, 33vw, 460px) * -.43)) rotate(calc(var(--i) * -22.5deg));
+}
+
+.sigil-ring span:nth-child(1) { --i: 0; }
+.sigil-ring span:nth-child(2) { --i: 1; }
+.sigil-ring span:nth-child(3) { --i: 2; }
+.sigil-ring span:nth-child(4) { --i: 3; }
+.sigil-ring span:nth-child(5) { --i: 4; }
+.sigil-ring span:nth-child(6) { --i: 5; }
+.sigil-ring span:nth-child(7) { --i: 6; }
+.sigil-ring span:nth-child(8) { --i: 7; }
+.sigil-ring span:nth-child(9) { --i: 8; }
+.sigil-ring span:nth-child(10) { --i: 9; }
+.sigil-ring span:nth-child(11) { --i: 10; }
+.sigil-ring span:nth-child(12) { --i: 11; }
+.sigil-ring span:nth-child(13) { --i: 12; }
+.sigil-ring span:nth-child(14) { --i: 13; }
+.sigil-ring span:nth-child(15) { --i: 14; }
+.sigil-ring span:nth-child(16) { --i: 15; }
 
 .deep-current {
   position: absolute;
@@ -366,14 +396,10 @@ textarea {
   width: min(1160px, calc(100% - 36px));
   margin: 0 auto;
   padding: 150px 0 56px;
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(300px, 380px);
-  gap: clamp(28px, 5vw, 70px);
-  align-items: end;
 }
 
 .hero-copy {
-  max-width: 780px;
+  max-width: 860px;
 }
 
 .eyebrow,
@@ -477,92 +503,6 @@ textarea {
   margin-bottom: 7px;
   color: #fff;
   font-size: 20px;
-}
-
-.artifact-card {
-  position: relative;
-  min-height: 510px;
-  padding: 22px;
-  overflow: hidden;
-  border: 1px solid rgba(232, 215, 122, .32);
-  border-radius: 10px;
-  background:
-    linear-gradient(180deg, rgba(12, 27, 24, .78), rgba(3, 9, 8, .84)),
-    url("assets/images/eldritch-manuscript-bg.jpg") center / cover no-repeat;
-  box-shadow: 0 34px 90px rgba(0, 0, 0, .42);
-  backdrop-filter: blur(14px);
-}
-
-.artifact-card::before {
-  content: "";
-  position: absolute;
-  inset: 12px;
-  border: 1px solid rgba(232, 215, 122, .22);
-  pointer-events: none;
-}
-
-.artifact-card::after {
-  content: "";
-  position: absolute;
-  right: -80px;
-  bottom: -80px;
-  width: 220px;
-  aspect-ratio: 1;
-  border-radius: 50%;
-  background: radial-gradient(circle, rgba(118, 227, 196, .28), transparent 65%);
-  filter: blur(10px);
-  animation: pulseGlow 4.8s ease-in-out infinite;
-}
-
-.artifact-topline {
-  color: var(--lemon);
-  font-size: 11px;
-  font-weight: 900;
-  letter-spacing: .24em;
-  text-transform: uppercase;
-}
-
-.artifact-card img {
-  width: 170px;
-  height: 170px;
-  margin: 52px auto 28px;
-  object-fit: cover;
-  border: 2px solid rgba(232, 215, 122, .48);
-  border-radius: 50%;
-  box-shadow: 0 24px 54px rgba(0, 0, 0, .34);
-}
-
-.artifact-card h2 {
-  margin: 0;
-  font-size: 42px;
-  line-height: 1;
-  text-align: center;
-}
-
-.artifact-card p {
-  margin: 16px auto 0;
-  max-width: 270px;
-  color: rgba(238, 247, 241, .68);
-  line-height: 1.65;
-  text-align: center;
-}
-
-.artifact-tags {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 8px;
-  margin-top: 24px;
-}
-
-.artifact-tags span {
-  padding: 8px 10px;
-  border: 1px solid rgba(118, 227, 196, .28);
-  border-radius: 999px;
-  color: var(--teal);
-  background: rgba(3, 9, 8, .42);
-  font-size: 12px;
-  font-weight: 900;
 }
 
 .section {
@@ -1310,14 +1250,8 @@ textarea {
   .about-layout,
   .online-layout,
   .message,
-  .course-shell,
-  .hero-inner {
+  .course-shell {
     grid-template-columns: 1fr;
-  }
-
-  .artifact-card {
-    min-height: auto;
-    max-width: 520px;
   }
 
   .about-copy,
@@ -1388,20 +1322,6 @@ textarea {
   .level-grid,
   .course-tabs {
     grid-template-columns: 1fr;
-  }
-
-  .artifact-card {
-    padding: 18px;
-  }
-
-  .artifact-card img {
-    width: 128px;
-    height: 128px;
-    margin-top: 32px;
-  }
-
-  .artifact-card h2 {
-    font-size: 34px;
   }
 
   .section {
