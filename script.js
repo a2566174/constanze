@@ -55,6 +55,13 @@ window.addEventListener("resize", updateScrollState);
 updateScrollState();
 
 if (!prefersReducedMotion) {
+  window.addEventListener("pointermove", (event) => {
+    const mx = (event.clientX / window.innerWidth) * 100;
+    const my = (event.clientY / window.innerHeight) * 100;
+    document.body.style.setProperty("--mx", `${mx}%`);
+    document.body.style.setProperty("--my", `${my}%`);
+  }, { passive: true });
+
   document.querySelectorAll(".magnetic").forEach((element) => {
     element.addEventListener("pointermove", (event) => {
       const rect = element.getBoundingClientRect();
